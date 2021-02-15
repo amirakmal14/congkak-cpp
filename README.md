@@ -1,5 +1,5 @@
 # congkak-cpp
-Very basic 'Congkak' game code in C++
+Very basic 'Congkak' game code in C++ during my first year degree with my team members in UPM.
 
 ![congkak](https://user-images.githubusercontent.com/44694369/107924228-95e88100-6fad-11eb-8044-7192ed78d9a9.JPG)
 
